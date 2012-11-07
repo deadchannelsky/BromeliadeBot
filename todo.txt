@@ -1,0 +1,10 @@
+TODO:
+
+-Make interface
+-functionalize the signup and tutorial Process
+-google docs api integration
+-change login credentials to: <4 random lowercase letters>@<full random letters and numbers>.com
+-once full DB functionality exists from CV file, change password credentials to random as well
+-LongTerm: favorite GUIDs on the picker list for harvestability
+-REMOVE HARDCODED LOOP PASSWORD!
+-Either pull from resolution to set image folder OR offer the ability to pick what resolution to run the tool at and give them some choices. See: http://www.autohotkey.com/board/topic/9993-resolution-changer-cmd/
