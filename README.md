@@ -1,6 +1,6 @@
-#BloodBrothers Multitool
+#BromeliadeBot Multitool
 ##Introduction
-This tool will allow you to collect invite awards and login awards for the popular game, BloodBrothers by Dena. 
+This tool will allow you to collect invite awards and login awards for the popular game, Bromeliade. 
 
 ##Disclaimer
 This tool is released for educational purposes only. We do not advise that you break your terms of service. We do not hold rights over any images or trademarks shown. We do not offer updates or honor requests. 
