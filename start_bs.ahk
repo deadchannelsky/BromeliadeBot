@@ -1,5 +1,5 @@
 ;open BB with a given GUID random or stored. If no GUID is passed to startBB then it will generate one using randguid from functions.ahk 
-#include functions.ahk
+;#include functions.ahk
 
 start_bs(GUID)
 {

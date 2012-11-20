@@ -1,4 +1,4 @@
-#include functions.ahk
+;#include functions.ahk
 
 ;required images for singup, 
 /*
